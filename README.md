@@ -2,9 +2,8 @@
 Evolving Cascade Neural Network (ECNN) Matlab script
  with Ripley's benchmark
 
-Written by V. Schetiin "A Learning Algorithm for Evolving Cascade
-Neural Networks". Neural Proc Lectter, 17, 2003, 
-available on http://arxiv.org/abs/cs/0504055
+Written by V. Schetinin "A Learning Algorithm for Evolving Cascade
+Neural Networks". Neural Proc Letters, 17, 2003, available on http://arxiv.org/abs/cs/0504055
 
 Abstract. A new learning algorithm for Evolving Cascade Neural Networks 
 (ECNNs) is described. An ECNN starts to learn with one input node and then
